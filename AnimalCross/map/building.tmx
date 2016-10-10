@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-up" width="200" height="192" tilewidth="8" tileheight="8" nextobjectid="1">
+ <tileset firstgid="1" name="whole-city" tilewidth="8" tileheight="8" tilecount="38600" columns="200">
+  <image source="whole-city.png" width="1600" height="1550"/>
+ </tileset>
+ <layer name="块层 1" width="200" height="192">
+  <data encoding="base64" compression="zlib">
+   eJzt0/fX0GMch/Gb9o4mSnsXoWG1S2jSVj3P096D9iA0qZT2LppGg0pRCZH20KRJpV0255iXv8Av33xPnet1zvXrfc77nM8dgiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkq436xJCWE8b6EPaSB/Rx/QJbaJP6TPaTJ/TFtpK22g77aCdtIt2056EuFdJ0RiaGMIwGk4jaCSNopfoZRpNY2gsvULjaDy9ShNoIk2iyTSFptK0xLhXSdGolRRCbapDdake1acn6ElqQA2pETWmJtSUmtFT1JxaUEtKoERKSvo/F0jXTpZWIWSlbJSdclBOuo1upzsoF+WmOykP5aV8lJ8KUEEqRIWpCBVtFfcqKRpHuOWjdIyO0wk6SV/TN3SKTtMZ+pbO0jk6TxfoIl2iy3SFrtJ3/g/dIOa3DmEBLaRFtJiW0Bv0Jr1Fb9NSWkbLaQW9Q+/SSlpFq+k9WkNrW8e9SopGlzYhdKVu1J16UE96mp6hXtSb+lBf6kf9aQANpEE0mJ6l52gIPd8m7lVSNO5rG0IZKkvlqDzdTw/Qg/QQPUwVqCJVospUhapSNapONegRqkmPto17lRSN37nlP+hP+ov+/ve224VwE91MySg5paCUlIpSUxpKS+koPWWgjJSJMreLe5UUjU3c8qf0GW2mz2kLbaVttJ120E7aRbtpD+2lL2gf7acDdJAO0WH/h24Qo9uHMIbG0is0jsbTqzSBJtIkmkxTaCpNo+k0g2bSLJpNc2guzWsf9yopGg06hNCQGlFjakJNqRk9Rc2pBbWkBEqkJGpFrakNtaV21J46UMcOca+SonFHxxByUW66k/JQXspH+akAFaRCVJiKUFEqRsWpBJWkUnQX3U2lO8a9SorGKW75NJ2hb+ksnaPzdIEu0iW6TFfoKn1H39MP9CP9RD/TL/Qr/XYN/keRCdG/Kf2XtzqF8DYtpWW0nFbQO/QuraRVtJreozW0lt6nD2gdracN9CFtpI86xb1KikavziH0pj7Ul/pRfxpAA2kQDaZn6TkaQs/TC/QiDaVhNJxG0Ega1TnuVVI0HuoSwsNUgSpSJapMVagqVaPqVIMeoZr0KD1Gj1Mtqk11qC7Vo/pd4l4lRSNZ1xCSUwpKSakoNaWhtJSO0lMGykiZKDPdQrdSFspK2Sg75aCcXeNeJUVjO7e8g3bSLtpNe2gvfUH7aD8doIN0iA7Tl/QVHaGjdIyO0wk66f/QDWJitxAm0WSaQlNpGk2nGTSTZtFsmkNzaR69Rq/TfFpAC2kRLaYl3eJeJUWjefcQWlBLSqBESqJW1JraUFtqR+2pA3WkTtSZulBX6kbdqQf17B73KikaBXqEUJAKUWEqQkWpGBWnElSSStFddDeVpnvoXrqPylBZKkfl6f4eca+SJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEnXq38AB2atRA==
+  </data>
+ </layer>
+</map>
